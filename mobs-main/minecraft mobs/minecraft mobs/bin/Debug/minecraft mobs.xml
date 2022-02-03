@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+minecraft mobs
+</name>
+</assembly>
+<members>
+<member name="T:minecraft_mobs.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.creeper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.Enderman">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.enderman2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.Iron_Golem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.mcbee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.Panda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.phantom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.Shulker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.skeleton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.Wither_Skeleton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:minecraft_mobs.My.Resources.Resources.Zombie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
